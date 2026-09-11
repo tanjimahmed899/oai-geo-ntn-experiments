@@ -1,0 +1,395 @@
+1789107065.898717 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [S], seq 1335204768, win 42340, options [mss 1460,sackOK,TS val 682884795 ecr 0,nop,wscale 13], length 0
+1789107066.698742 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [S.], seq 4159526111, ack 1335204769, win 43440, options [mss 1460,sackOK,TS val 2789265703 ecr 682884795,nop,wscale 13], length 0
+1789107066.699001 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 1, win 6, options [nop,nop,TS val 682885595 ecr 2789265703], length 0
+1789107066.699084 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 1:38, ack 1, win 6, options [nop,nop,TS val 682885595 ecr 2789265703], length 37
+1789107067.468826 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 38, win 6, options [nop,nop,TS val 2789266471 ecr 682885595], length 0
+1789107067.470024 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 1:2, ack 38, win 6, options [nop,nop,TS val 2789266471 ecr 682885595], length 1
+1789107067.470147 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 2, win 6, options [nop,nop,TS val 682886366 ecr 2789266471], length 0
+1789107067.470770 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 38:42, ack 2, win 6, options [nop,nop,TS val 682886367 ecr 2789266471], length 4
+1789107067.470898 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 42:166, ack 2, win 6, options [nop,nop,TS val 682886367 ecr 2789266471], length 124
+1789107068.196176 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 166, win 6, options [nop,nop,TS val 2789267220 ecr 682886367], length 0
+1789107068.196828 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 2:3, ack 166, win 6, options [nop,nop,TS val 2789267222 ecr 682886367], length 1
+1789107068.197602 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [S], seq 2690620943, win 42340, options [mss 1460,sackOK,TS val 682887094 ecr 0,nop,wscale 13], length 0
+1789107068.239385 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 3, win 6, options [nop,nop,TS val 682887136 ecr 2789267222], length 0
+1789107068.891157 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [S.], seq 2607760254, ack 2690620944, win 43440, options [mss 1460,sackOK,TS val 2789267927 ecr 682887094,nop,wscale 13], length 0
+1789107068.891324 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], ack 1, win 6, options [nop,nop,TS val 682887787 ecr 2789267927], length 0
+1789107068.891448 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 1:38, ack 1, win 6, options [nop,nop,TS val 682887788 ecr 2789267927], length 37
+1789107069.505418 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 38, win 6, options [nop,nop,TS val 2789268542 ecr 682887788], length 0
+1789107069.520010 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 3:4, ack 166, win 6, options [nop,nop,TS val 2789268554 ecr 682887136], length 1
+1789107069.520149 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 4, win 6, options [nop,nop,TS val 682888416 ecr 2789268554], length 0
+1789107070.320851 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 4:5, ack 166, win 6, options [nop,nop,TS val 2789269334 ecr 682888416], length 1
+1789107070.321031 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 5, win 6, options [nop,nop,TS val 682889217 ecr 2789269334], length 0
+1789107070.321661 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 38:1486, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.321671 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 1486:2934, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.321721 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 2934:4382, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.321843 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 4382:5830, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.321873 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 5830:7278, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.322022 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 7278:8726, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.322069 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 8726:10174, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.322075 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 10174:11622, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.322211 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 11622:13070, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107070.322272 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 13070:14518, ack 1, win 6, options [nop,nop,TS val 682889218 ecr 2789268542], length 1448
+1789107071.211762 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 1486, win 7, options [nop,nop,TS val 2789270234 ecr 682889218], length 0
+1789107071.211960 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 14518:15966, ack 1, win 6, options [nop,nop,TS val 682890108 ecr 2789270234], length 1448
+1789107071.212116 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 15966:17414, ack 1, win 6, options [nop,nop,TS val 682890108 ecr 2789270234], length 1448
+1789107071.499990 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 2934, win 7, options [nop,nop,TS val 2789270544 ecr 682889218], length 0
+1789107071.500058 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 17414:18862, ack 1, win 6, options [nop,nop,TS val 682890396 ecr 2789270544], length 1448
+1789107071.500072 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 18862:20310, ack 1, win 6, options [nop,nop,TS val 682890396 ecr 2789270544], length 1448
+1789107071.780372 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 4382, win 7, options [nop,nop,TS val 2789270825 ecr 682889218], length 0
+1789107071.780456 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 20310:21758, ack 1, win 6, options [nop,nop,TS val 682890677 ecr 2789270825], length 1448
+1789107071.780468 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 21758:23206, ack 1, win 6, options [nop,nop,TS val 682890677 ecr 2789270825], length 1448
+1789107071.954462 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 5830, win 7, options [nop,nop,TS val 2789270999 ecr 682889218], length 0
+1789107071.954586 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 23206:24654, ack 1, win 6, options [nop,nop,TS val 682890851 ecr 2789270999], length 1448
+1789107071.954599 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 24654:26102, ack 1, win 6, options [nop,nop,TS val 682890851 ecr 2789270999], length 1448
+1789107072.225329 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 7278, win 7, options [nop,nop,TS val 2789271251 ecr 682889218], length 0
+1789107072.225418 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 26102:27550, ack 1, win 6, options [nop,nop,TS val 682891122 ecr 2789271251], length 1448
+1789107072.225432 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 27550:28998, ack 1, win 6, options [nop,nop,TS val 682891122 ecr 2789271251], length 1448
+1789107072.541798 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 8726, win 7, options [nop,nop,TS val 2789271570 ecr 682889218], length 0
+1789107072.541895 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 28998:30446, ack 1, win 6, options [nop,nop,TS val 682891438 ecr 2789271570], length 1448
+1789107072.541950 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 30446:31894, ack 1, win 6, options [nop,nop,TS val 682891438 ecr 2789271570], length 1448
+1789107072.894276 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 10174, win 7, options [nop,nop,TS val 2789271881 ecr 682889218], length 0
+1789107072.894365 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 31894:33342, ack 1, win 6, options [nop,nop,TS val 682891791 ecr 2789271881], length 1448
+1789107072.894387 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 33342:34790, ack 1, win 6, options [nop,nop,TS val 682891791 ecr 2789271881], length 1448
+1789107073.246922 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 11622, win 7, options [nop,nop,TS val 2789272260 ecr 682889218], length 0
+1789107073.247035 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 34790:36238, ack 1, win 6, options [nop,nop,TS val 682892143 ecr 2789272260], length 1448
+1789107073.247096 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 36238:37686, ack 1, win 6, options [nop,nop,TS val 682892143 ecr 2789272260], length 1448
+1789107077.120973 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 13070, win 7, options [nop,nop,TS val 2789272580 ecr 682889218], length 0
+1789107077.121044 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 37686:39134, ack 1, win 6, options [nop,nop,TS val 682892435 ecr 2789272580], length 1448
+1789107077.121104 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 39134:40582, ack 1, win 6, options [nop,nop,TS val 682892435 ecr 2789272580], length 1448
+1789107077.479751 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 14518, win 7, options [nop,nop,TS val 2789272900 ecr 682889218], length 0
+1789107077.481178 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 40582:42030, ack 1, win 6, options [nop,nop,TS val 682892795 ecr 2789272900], length 1448
+1789107077.481195 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 42030:43478, ack 1, win 6, options [nop,nop,TS val 682892795 ecr 2789272900], length 1448
+1789107077.871506 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 15966, win 7, options [nop,nop,TS val 2789273283 ecr 682890108], length 0
+1789107077.871621 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 43478:44926, ack 1, win 6, options [nop,nop,TS val 682893186 ecr 2789273283], length 1448
+1789107077.871637 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 44926:46374, ack 1, win 6, options [nop,nop,TS val 682893186 ecr 2789273283], length 1448
+1789107078.219615 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 17414, win 7, options [nop,nop,TS val 2789273668 ecr 682890108], length 0
+1789107078.219685 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 46374:47822, ack 1, win 6, options [nop,nop,TS val 682893534 ecr 2789273668], length 1448
+1789107078.219737 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 47822:49270, ack 1, win 6, options [nop,nop,TS val 682893534 ecr 2789273668], length 1448
+1789107078.548808 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 18862, win 7, options [nop,nop,TS val 2789273982 ecr 682890396], length 0
+1789107078.548913 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 49270:50718, ack 1, win 6, options [nop,nop,TS val 682893863 ecr 2789273982], length 1448
+1789107078.548975 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 50718:52166, ack 1, win 6, options [nop,nop,TS val 682893863 ecr 2789273982], length 1448
+1789107078.862892 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 20310, win 7, options [nop,nop,TS val 2789274311 ecr 682890396], length 0
+1789107078.862987 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 52166:53614, ack 1, win 6, options [nop,nop,TS val 682894177 ecr 2789274311], length 1448
+1789107078.863172 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 53614:55062, ack 1, win 6, options [nop,nop,TS val 682894177 ecr 2789274311], length 1448
+1789107079.162570 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 21758, win 7, options [nop,nop,TS val 2789274614 ecr 682890677], length 0
+1789107079.162652 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 55062:56510, ack 1, win 6, options [nop,nop,TS val 682894477 ecr 2789274614], length 1448
+1789107079.162708 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 56510:57958, ack 1, win 6, options [nop,nop,TS val 682894477 ecr 2789274614], length 1448
+1789107079.514896 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 23206, win 7, options [nop,nop,TS val 2789274954 ecr 682890677], length 0
+1789107079.514956 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 57958:59406, ack 1, win 6, options [nop,nop,TS val 682894829 ecr 2789274954], length 1448
+1789107079.514967 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 59406:60854, ack 1, win 6, options [nop,nop,TS val 682894829 ecr 2789274954], length 1448
+1789107079.915470 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 24654, win 7, options [nop,nop,TS val 2789275334 ecr 682890851], length 0
+1789107079.915570 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 60854:62302, ack 1, win 6, options [nop,nop,TS val 682895230 ecr 2789275334], length 1448
+1789107079.915647 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 62302:63750, ack 1, win 6, options [nop,nop,TS val 682895230 ecr 2789275334], length 1448
+1789107080.368694 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 26102, win 7, options [nop,nop,TS val 2789275699 ecr 682890851], length 0
+1789107080.369344 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 63750:65198, ack 1, win 6, options [nop,nop,TS val 682895683 ecr 2789275699], length 1448
+1789107080.369358 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 65198:66646, ack 1, win 6, options [nop,nop,TS val 682895683 ecr 2789275699], length 1448
+1789107080.769796 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 27550, win 7, options [nop,nop,TS val 2789276230 ecr 682891122], length 0
+1789107080.769849 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 66646:68094, ack 1, win 6, options [nop,nop,TS val 682896084 ecr 2789276230], length 1448
+1789107080.985691 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 28998, win 7, options [nop,nop,TS val 2789276442 ecr 682891122], length 0
+1789107080.985752 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 68094:69542, ack 1, win 6, options [nop,nop,TS val 682896300 ecr 2789276442], length 1448
+1789107081.578344 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 30446, win 7, options [nop,nop,TS val 2789276942 ecr 682891438], length 0
+1789107081.578485 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 69542:70990, ack 1, win 6, options [nop,nop,TS val 682896893 ecr 2789276942], length 1448
+1789107081.859971 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 31894, win 7, options [nop,nop,TS val 2789277298 ecr 682891438], length 0
+1789107081.860037 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 70990:72438, ack 1, win 6, options [nop,nop,TS val 682897174 ecr 2789277298], length 1448
+1789107082.377539 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 33342, win 7, options [nop,nop,TS val 2789277834 ecr 682891791], length 0
+1789107082.377619 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 72438:73886, ack 1, win 6, options [nop,nop,TS val 682897692 ecr 2789277834], length 1448
+1789107082.469593 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 34790, win 7, options [nop,nop,TS val 2789277930 ecr 682891791], length 0
+1789107082.469721 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 73886:75334, ack 1, win 6, options [nop,nop,TS val 682897784 ecr 2789277930], length 1448
+1789107083.005266 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 36238, win 7, options [nop,nop,TS val 2789278434 ecr 682892143], length 0
+1789107083.005355 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 75334:76782, ack 1, win 6, options [nop,nop,TS val 682898319 ecr 2789278434], length 1448
+1789107083.005578 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 76782:78230, ack 1, win 6, options [nop,nop,TS val 682898319 ecr 2789278434], length 1448
+1789107083.128114 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 37686, win 7, options [nop,nop,TS val 2789278556 ecr 682892143], length 0
+1789107083.128182 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 78230:79678, ack 1, win 6, options [nop,nop,TS val 682898442 ecr 2789278556], length 1448
+1789107083.446212 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 39134, win 7, options [nop,nop,TS val 2789278893 ecr 682892435], length 0
+1789107083.446295 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 79678:81126, ack 1, win 6, options [nop,nop,TS val 682898760 ecr 2789278893], length 1448
+1789107083.446361 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 81126:82574, ack 1, win 6, options [nop,nop,TS val 682898760 ecr 2789278893], length 1448
+1789107083.888476 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 40582, win 8, options [nop,nop,TS val 2789279318 ecr 682892435], length 0
+1789107083.888573 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 82574:84022, ack 1, win 6, options [nop,nop,TS val 682899203 ecr 2789279318], length 1448
+1789107083.888759 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 84022:85470, ack 1, win 6, options [nop,nop,TS val 682899203 ecr 2789279318], length 1448
+1789107084.296352 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 42030, win 8, options [nop,nop,TS val 2789279711 ecr 682892795], length 0
+1789107084.296437 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 85470:86918, ack 1, win 6, options [nop,nop,TS val 682899611 ecr 2789279711], length 1448
+1789107084.672259 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 43478, win 8, options [nop,nop,TS val 2789280099 ecr 682892795], length 0
+1789107084.672330 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 86918:88366, ack 1, win 6, options [nop,nop,TS val 682899986 ecr 2789280099], length 1448
+1789107084.672343 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 88366:89814, ack 1, win 6, options [nop,nop,TS val 682899986 ecr 2789280099], length 1448
+1789107085.194237 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 44926, win 8, options [nop,nop,TS val 2789280570 ecr 682893186], length 0
+1789107085.194346 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 89814:91262, ack 1, win 6, options [nop,nop,TS val 682900508 ecr 2789280570], length 1448
+1789107085.570293 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 46374, win 8, options [nop,nop,TS val 2789281010 ecr 682893186], length 0
+1789107085.570355 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 91262:92710, ack 1, win 6, options [nop,nop,TS val 682900884 ecr 2789281010], length 1448
+1789107085.570375 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 92710:94158, ack 1, win 6, options [nop,nop,TS val 682900884 ecr 2789281010], length 1448
+1789107085.953687 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 47822, win 8, options [nop,nop,TS val 2789281410 ecr 682893534], length 0
+1789107085.953755 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 94158:95606, ack 1, win 6, options [nop,nop,TS val 682901268 ecr 2789281410], length 1448
+1789107086.182921 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 49270, win 8, options [nop,nop,TS val 2789281628 ecr 682893534], length 0
+1789107086.182979 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 95606:97054, ack 1, win 6, options [nop,nop,TS val 682901497 ecr 2789281628], length 1448
+1789107086.182990 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 97054:98502, ack 1, win 6, options [nop,nop,TS val 682901497 ecr 2789281628], length 1448
+1789107086.645115 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 50718, win 8, options [nop,nop,TS val 2789282106 ecr 682893863], length 0
+1789107086.645157 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 98502:99950, ack 1, win 6, options [nop,nop,TS val 682901959 ecr 2789282106], length 1448
+1789107086.846655 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 52166, win 8, options [nop,nop,TS val 2789282301 ecr 682893863], length 0
+1789107086.846714 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 99950:101398, ack 1, win 6, options [nop,nop,TS val 682902161 ecr 2789282301], length 1448
+1789107086.846765 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 101398:102846, ack 1, win 6, options [nop,nop,TS val 682902161 ecr 2789282301], length 1448
+1789107087.391189 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 53614, win 8, options [nop,nop,TS val 2789282850 ecr 682894177], length 0
+1789107087.391269 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 102846:104294, ack 1, win 6, options [nop,nop,TS val 682902705 ecr 2789282850], length 1448
+1789107087.483969 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 55062, win 8, options [nop,nop,TS val 2789282944 ecr 682894177], length 0
+1789107087.484023 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 104294:105742, ack 1, win 6, options [nop,nop,TS val 682902798 ecr 2789282944], length 1448
+1789107087.484035 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 105742:107190, ack 1, win 6, options [nop,nop,TS val 682902798 ecr 2789282944], length 1448
+1789107087.997104 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 56510, win 8, options [nop,nop,TS val 2789283442 ecr 682894477], length 0
+1789107087.997221 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 107190:108638, ack 1, win 6, options [nop,nop,TS val 682903311 ecr 2789283442], length 1448
+1789107088.108692 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 57958, win 8, options [nop,nop,TS val 2789283558 ecr 682894477], length 0
+1789107088.108754 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 108638:110086, ack 1, win 6, options [nop,nop,TS val 682903423 ecr 2789283558], length 1448
+1789107088.108773 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 110086:111534, ack 1, win 6, options [nop,nop,TS val 682903423 ecr 2789283558], length 1448
+1789107088.602432 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 59406, win 8, options [nop,nop,TS val 2789284058 ecr 682894829], length 0
+1789107088.602492 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 111534:112982, ack 1, win 6, options [nop,nop,TS val 682903917 ecr 2789284058], length 1448
+1789107088.698991 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 60854, win 8, options [nop,nop,TS val 2789284156 ecr 682894829], length 0
+1789107088.699081 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 112982:114430, ack 1, win 6, options [nop,nop,TS val 682904013 ecr 2789284156], length 1448
+1789107088.699138 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 114430:115878, ack 1, win 6, options [nop,nop,TS val 682904013 ecr 2789284156], length 1448
+1789107089.212613 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 62302, win 8, options [nop,nop,TS val 2789284658 ecr 682895230], length 0
+1789107089.212673 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 115878:117326, ack 1, win 6, options [nop,nop,TS val 682904527 ecr 2789284658], length 1448
+1789107089.291871 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 63750, win 8, options [nop,nop,TS val 2789284750 ecr 682895230], length 0
+1789107089.291959 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 117326:118774, ack 1, win 6, options [nop,nop,TS val 682904606 ecr 2789284750], length 1448
+1789107089.291969 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 118774:120222, ack 1, win 6, options [nop,nop,TS val 682904606 ecr 2789284750], length 1448
+1789107089.801788 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 65198, win 8, options [nop,nop,TS val 2789285250 ecr 682895683], length 0
+1789107089.801849 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 120222:121670, ack 1, win 6, options [nop,nop,TS val 682905116 ecr 2789285250], length 1448
+1789107089.886911 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 66646, win 8, options [nop,nop,TS val 2789285337 ecr 682895683], length 0
+1789107089.886982 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 121670:123118, ack 1, win 6, options [nop,nop,TS val 682905201 ecr 2789285337], length 1448
+1789107089.887039 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 123118:124566, ack 1, win 6, options [nop,nop,TS val 682905201 ecr 2789285337], length 1448
+1789107090.389640 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 68094, win 8, options [nop,nop,TS val 2789285842 ecr 682896084], length 0
+1789107090.389707 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 124566:126014, ack 1, win 6, options [nop,nop,TS val 682905704 ecr 2789285842], length 1448
+1789107090.716186 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 69542, win 8, options [nop,nop,TS val 2789286146 ecr 682896300], length 0
+1789107090.716344 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 126014:127462, ack 1, win 6, options [nop,nop,TS val 682906030 ecr 2789286146], length 1448
+1789107090.716356 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 127462:128910, ack 1, win 6, options [nop,nop,TS val 682906030 ecr 2789286146], length 1448
+1789107091.050053 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 70990, win 8, options [nop,nop,TS val 2789286478 ecr 682896893], length 0
+1789107091.050108 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 128910:130358, ack 1, win 6, options [nop,nop,TS val 682906364 ecr 2789286478], length 1448
+1789107091.401495 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 72438, win 8, options [nop,nop,TS val 2789286826 ecr 682897174], length 0
+1789107091.401578 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 130358:131806, ack 1, win 6, options [nop,nop,TS val 682906716 ecr 2789286826], length 1448
+1789107091.401614 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 131806:133254, ack 1, win 6, options [nop,nop,TS val 682906716 ecr 2789286826], length 1448
+1789107091.713804 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 73886, win 8, options [nop,nop,TS val 2789287154 ecr 682897692], length 0
+1789107091.713908 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 133254:134702, ack 1, win 6, options [nop,nop,TS val 682907028 ecr 2789287154], length 1448
+1789107091.836115 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 75334, win 9, options [nop,nop,TS val 2789287305 ecr 682897784], length 0
+1789107091.836216 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 134702:136150, ack 1, win 6, options [nop,nop,TS val 682907150 ecr 2789287305], length 1448
+1789107091.836282 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 136150:137598, ack 1, win 6, options [nop,nop,TS val 682907150 ecr 2789287305], length 1448
+1789107092.139662 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 76782, win 9, options [nop,nop,TS val 2789287591 ecr 682898319], length 0
+1789107092.139719 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 137598:139046, ack 1, win 6, options [nop,nop,TS val 682907454 ecr 2789287591], length 1448
+1789107092.419841 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 78230, win 9, options [nop,nop,TS val 2789287889 ecr 682898319], length 0
+1789107092.419925 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 139046:140494, ack 1, win 6, options [nop,nop,TS val 682907734 ecr 2789287889], length 1448
+1789107092.419951 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 140494:141942, ack 1, win 6, options [nop,nop,TS val 682907734 ecr 2789287889], length 1448
+1789107092.670914 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 79678, win 10, options [nop,nop,TS val 2789288140 ecr 682898442], length 0
+1789107092.671056 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 141942:143390, ack 1, win 6, options [nop,nop,TS val 682907985 ecr 2789288140], length 1448
+1789107093.065955 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 81126, win 10, options [nop,nop,TS val 2789288473 ecr 682898760], length 0
+1789107093.066070 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 143390:144838, ack 1, win 6, options [nop,nop,TS val 682908380 ecr 2789288473], length 1448
+1789107093.066089 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 144838:146286, ack 1, win 6, options [nop,nop,TS val 682908380 ecr 2789288473], length 1448
+1789107093.107178 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 166:167, ack 5, win 6, options [nop,nop,TS val 682908421 ecr 2789269334], length 1
+1789107093.526831 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 82574, win 10, options [nop,nop,TS val 2789288959 ecr 682898760], length 0
+1789107093.526866 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 146286:147734, ack 1, win 6, options [nop,nop,TS val 682908841 ecr 2789288959], length 1448
+1789107093.911788 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 84022, win 11, options [nop,nop,TS val 2789289326 ecr 682899203], length 0
+1789107093.911825 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 147734:149182, ack 1, win 6, options [nop,nop,TS val 682909226 ecr 2789289326], length 1448
+1789107094.561732 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 85470, win 11, options [nop,nop,TS val 2789289788 ecr 682899203], length 0
+1789107094.561816 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 149182:150630, ack 1, win 6, options [nop,nop,TS val 682909876 ecr 2789289788], length 1448
+1789107094.561831 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 150630:152078, ack 1, win 6, options [nop,nop,TS val 682909876 ecr 2789289788], length 1448
+1789107094.885493 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 166:167, ack 5, win 6, options [nop,nop,TS val 682910200 ecr 2789269334], length 1
+1789107095.160500 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 86918, win 11, options [nop,nop,TS val 2789290496 ecr 682899611], length 0
+1789107095.160580 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 152078:153526, ack 1, win 6, options [nop,nop,TS val 682910475 ecr 2789290496], length 1448
+1789107095.160648 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 153526:154974, ack 1, win 6, options [nop,nop,TS val 682910475 ecr 2789290496], length 1448
+1789107095.793573 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 88366, win 12, options [nop,nop,TS val 2789291145 ecr 682899986], length 0
+1789107095.793625 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 154974:156422, ack 1, win 6, options [nop,nop,TS val 682911108 ecr 2789291145], length 1448
+1789107096.198810 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 89814, win 12, options [nop,nop,TS val 2789291599 ecr 682899986], length 0
+1789107096.198899 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 156422:157870, ack 1, win 6, options [nop,nop,TS val 682911513 ecr 2789291599], length 1448
+1789107096.198971 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 157870:159318, ack 1, win 6, options [nop,nop,TS val 682911513 ecr 2789291599], length 1448
+1789107096.535066 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 91262, win 13, options [nop,nop,TS val 2789291985 ecr 682900508], length 0
+1789107096.535122 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 159318:160766, ack 1, win 6, options [nop,nop,TS val 682911849 ecr 2789291985], length 1448
+1789107097.031957 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 92710, win 13, options [nop,nop,TS val 2789292345 ecr 682900884], length 0
+1789107097.032017 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 160766:162214, ack 1, win 6, options [nop,nop,TS val 682912346 ecr 2789292345], length 1448
+1789107097.032070 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 162214:163662, ack 1, win 6, options [nop,nop,TS val 682912346 ecr 2789292345], length 1448
+1789107097.349616 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 166:167, ack 5, win 6, options [nop,nop,TS val 682912664 ecr 2789269334], length 1
+1789107097.429088 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 94158, win 13, options [nop,nop,TS val 2789292856 ecr 682900884], length 0
+1789107097.429164 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 163662:165110, ack 1, win 6, options [nop,nop,TS val 682912743 ecr 2789292856], length 1448
+1789107097.768357 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 95606, win 14, options [nop,nop,TS val 2789293211 ecr 682901268], length 0
+1789107097.768494 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 165110:166558, ack 1, win 6, options [nop,nop,TS val 682913083 ecr 2789293211], length 1448
+1789107097.768507 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 166558:168006, ack 1, win 6, options [nop,nop,TS val 682913083 ecr 2789293211], length 1448
+1789107098.095117 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 97054, win 14, options [nop,nop,TS val 2789293538 ecr 682901497], length 0
+1789107098.095216 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 168006:169454, ack 1, win 6, options [nop,nop,TS val 682913409 ecr 2789293538], length 1448
+1789107098.478183 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 98502, win 14, options [nop,nop,TS val 2789293870 ecr 682901497], length 0
+1789107098.478265 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 169454:170902, ack 1, win 6, options [nop,nop,TS val 682913792 ecr 2789293870], length 1448
+1789107098.478286 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 170902:172350, ack 1, win 6, options [nop,nop,TS val 682913792 ecr 2789293870], length 1448
+1789107098.906185 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 99950, win 15, options [nop,nop,TS val 2789294308 ecr 682901959], length 0
+1789107098.906254 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 172350:173798, ack 1, win 6, options [nop,nop,TS val 682914220 ecr 2789294308], length 1448
+1789107099.320335 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 101398, win 15, options [nop,nop,TS val 2789294698 ecr 682902161], length 0
+1789107099.320445 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 173798:175246, ack 1, win 6, options [nop,nop,TS val 682914634 ecr 2789294698], length 1448
+1789107099.320482 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 175246:176694, ack 1, win 6, options [nop,nop,TS val 682914634 ecr 2789294698], length 1448
+1789107099.740150 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 102846, win 15, options [nop,nop,TS val 2789295165 ecr 682902161], length 0
+1789107099.740231 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 176694:178142, ack 1, win 6, options [nop,nop,TS val 682915054 ecr 2789295165], length 1448
+1789107100.107930 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 104294, win 16, options [nop,nop,TS val 2789295504 ecr 682902705], length 0
+1789107100.108008 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 178142:179590, ack 1, win 6, options [nop,nop,TS val 682915422 ecr 2789295504], length 1448
+1789107100.108070 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 179590:181038, ack 1, win 6, options [nop,nop,TS val 682915422 ecr 2789295504], length 1448
+1789107100.432897 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 105742, win 16, options [nop,nop,TS val 2789295894 ecr 682902798], length 0
+1789107100.432947 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 181038:182486, ack 1, win 6, options [nop,nop,TS val 682915747 ecr 2789295894], length 1448
+1789107100.725896 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 107190, win 16, options [nop,nop,TS val 2789296185 ecr 682902798], length 0
+1789107100.725958 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 182486:183934, ack 1, win 6, options [nop,nop,TS val 682916040 ecr 2789296185], length 1448
+1789107100.725973 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 183934:185382, ack 1, win 6, options [nop,nop,TS val 682916040 ecr 2789296185], length 1448
+1789107101.044725 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 108638, win 17, options [nop,nop,TS val 2789296491 ecr 682903311], length 0
+1789107101.044816 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 185382:186830, ack 1, win 6, options [nop,nop,TS val 682916359 ecr 2789296491], length 1448
+1789107101.352846 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 110086, win 17, options [nop,nop,TS val 2789296816 ecr 682903423], length 0
+1789107101.352913 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 186830:188278, ack 1, win 6, options [nop,nop,TS val 682916667 ecr 2789296816], length 1448
+1789107101.352934 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 188278:189726, ack 1, win 6, options [nop,nop,TS val 682916667 ecr 2789296816], length 1448
+1789107101.678702 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 111534, win 17, options [nop,nop,TS val 2789297123 ecr 682903423], length 0
+1789107101.678761 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 189726:191174, ack 1, win 6, options [nop,nop,TS val 682916993 ecr 2789297123], length 1448
+1789107101.961614 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 166:167, ack 5, win 6, options [nop,nop,TS val 682917276 ecr 2789269334], length 1
+1789107101.997233 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 112982, win 18, options [nop,nop,TS val 2789297439 ecr 682903917], length 0
+1789107101.997329 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 191174:192622, ack 1, win 6, options [nop,nop,TS val 682917311 ecr 2789297439], length 1448
+1789107101.997446 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 192622:194070, ack 1, win 6, options [nop,nop,TS val 682917311 ecr 2789297439], length 1448
+1789107102.338866 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 114430, win 18, options [nop,nop,TS val 2789297777 ecr 682904013], length 0
+1789107102.338908 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 194070:195518, ack 1, win 6, options [nop,nop,TS val 682917653 ecr 2789297777], length 1448
+1789107102.670136 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 115878, win 19, options [nop,nop,TS val 2789298107 ecr 682904013], length 0
+1789107102.670192 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 195518:196966, ack 1, win 6, options [nop,nop,TS val 682917984 ecr 2789298107], length 1448
+1789107102.670246 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 196966:198414, ack 1, win 6, options [nop,nop,TS val 682917984 ecr 2789298107], length 1448
+1789107103.020652 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 117326, win 19, options [nop,nop,TS val 2789298454 ecr 682904527], length 0
+1789107103.020741 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 198414:199862, ack 1, win 6, options [nop,nop,TS val 682918335 ecr 2789298454], length 1448
+1789107103.305815 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 118774, win 19, options [nop,nop,TS val 2789298774 ecr 682904606], length 0
+1789107103.305909 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 199862:201310, ack 1, win 6, options [nop,nop,TS val 682918620 ecr 2789298774], length 1448
+1789107103.305970 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 201310:202758, ack 1, win 6, options [nop,nop,TS val 682918620 ecr 2789298774], length 1448
+1789107103.620409 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 120222, win 20, options [nop,nop,TS val 2789299084 ecr 682904606], length 0
+1789107103.620478 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 202758:204206, ack 1, win 6, options [nop,nop,TS val 682918935 ecr 2789299084], length 1448
+1789107103.956914 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 121670, win 20, options [nop,nop,TS val 2789299427 ecr 682905116], length 0
+1789107103.956977 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 204206:205654, ack 1, win 6, options [nop,nop,TS val 682919271 ecr 2789299427], length 1448
+1789107103.956990 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 205654:207102, ack 1, win 6, options [nop,nop,TS val 682919271 ecr 2789299427], length 1448
+1789107104.231521 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 123118, win 20, options [nop,nop,TS val 2789299696 ecr 682905201], length 0
+1789107104.231632 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 207102:208550, ack 1, win 6, options [nop,nop,TS val 682919546 ecr 2789299696], length 1448
+1789107104.584706 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 124566, win 21, options [nop,nop,TS val 2789300043 ecr 682905201], length 0
+1789107104.584763 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 208550:209998, ack 1, win 6, options [nop,nop,TS val 682919899 ecr 2789300043], length 1448
+1789107104.584775 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 209998:211446, ack 1, win 6, options [nop,nop,TS val 682919899 ecr 2789300043], length 1448
+1789107104.931049 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 126014, win 21, options [nop,nop,TS val 2789300371 ecr 682905704], length 0
+1789107104.931126 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 211446:212894, ack 1, win 6, options [nop,nop,TS val 682920245 ecr 2789300371], length 1448
+1789107105.396443 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 127462, win 21, options [nop,nop,TS val 2789300800 ecr 682906030], length 0
+1789107105.396503 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 212894:214342, ack 1, win 6, options [nop,nop,TS val 682920711 ecr 2789300800], length 1448
+1789107105.396512 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 214342:215790, ack 1, win 6, options [nop,nop,TS val 682920711 ecr 2789300800], length 1448
+1789107105.744333 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 128910, win 22, options [nop,nop,TS val 2789301173 ecr 682906030], length 0
+1789107105.744477 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 215790:217238, ack 1, win 6, options [nop,nop,TS val 682921058 ecr 2789301173], length 1448
+1789107106.134436 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 130358, win 22, options [nop,nop,TS val 2789301584 ecr 682906364], length 0
+1789107106.134491 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 217238:218686, ack 1, win 6, options [nop,nop,TS val 682921449 ecr 2789301584], length 1448
+1789107106.134504 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 218686:220134, ack 1, win 6, options [nop,nop,TS val 682921449 ecr 2789301584], length 1448
+1789107106.438427 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 131806, win 22, options [nop,nop,TS val 2789301892 ecr 682906716], length 0
+1789107106.438636 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 220134:221582, ack 1, win 6, options [nop,nop,TS val 682921753 ecr 2789301892], length 1448
+1789107106.767060 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 133254, win 23, options [nop,nop,TS val 2789302208 ecr 682906716], length 0
+1789107106.767121 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 221582:223030, ack 1, win 6, options [nop,nop,TS val 682922081 ecr 2789302208], length 1448
+1789107106.767134 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 223030:224478, ack 1, win 6, options [nop,nop,TS val 682922081 ecr 2789302208], length 1448
+1789107107.114644 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 134702, win 23, options [nop,nop,TS val 2789302533 ecr 682907028], length 0
+1789107107.114736 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 224478:225926, ack 1, win 6, options [nop,nop,TS val 682922429 ecr 2789302533], length 1448
+1789107107.434230 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 136150, win 23, options [nop,nop,TS val 2789302876 ecr 682907150], length 0
+1789107107.434292 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 225926:227374, ack 1, win 6, options [nop,nop,TS val 682922748 ecr 2789302876], length 1448
+1789107107.434302 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 227374:228822, ack 1, win 6, options [nop,nop,TS val 682922748 ecr 2789302876], length 1448
+1789107107.728237 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 137598, win 24, options [nop,nop,TS val 2789303188 ecr 682907150], length 0
+1789107107.728309 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 228822:230270, ack 1, win 6, options [nop,nop,TS val 682923042 ecr 2789303188], length 1448
+1789107108.059424 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 139046, win 24, options [nop,nop,TS val 2789303496 ecr 682907454], length 0
+1789107108.059512 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 230270:231718, ack 1, win 6, options [nop,nop,TS val 682923374 ecr 2789303496], length 1448
+1789107108.059570 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 231718:233166, ack 1, win 6, options [nop,nop,TS val 682923374 ecr 2789303496], length 1448
+1789107108.397870 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 140494, win 25, options [nop,nop,TS val 2789303830 ecr 682907734], length 0
+1789107108.397929 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 233166:234614, ack 1, win 6, options [nop,nop,TS val 682923712 ecr 2789303830], length 1448
+1789107108.736304 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 141942, win 25, options [nop,nop,TS val 2789304170 ecr 682907734], length 0
+1789107108.736360 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 234614:236062, ack 1, win 6, options [nop,nop,TS val 682924050 ecr 2789304170], length 1448
+1789107108.736376 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 236062:237510, ack 1, win 6, options [nop,nop,TS val 682924050 ecr 2789304170], length 1448
+1789107109.123589 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 143390, win 25, options [nop,nop,TS val 2789304538 ecr 682907985], length 0
+1789107109.123679 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 237510:238958, ack 1, win 6, options [nop,nop,TS val 682924438 ecr 2789304538], length 1448
+1789107113.096732 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 144838, win 26, options [nop,nop,TS val 2789304904 ecr 682908380], length 0
+1789107113.096797 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 238958:240406, ack 1, win 6, options [nop,nop,TS val 682924818 ecr 2789304904], length 1448
+1789107113.096853 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [P.], seq 240406:241854, ack 1, win 6, options [nop,nop,TS val 682924818 ecr 2789304904], length 1448
+1789107113.525199 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [.], ack 146286, win 26, options [nop,nop,TS val 2789305321 ecr 682908380], length 0
+1789107113.525281 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], seq 241854:243302, ack 1, win 6, options [nop,nop,TS val 682925246 ecr 2789305321], length 1448
+1789107113.526905 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [F.], seq 1, ack 146286, win 26, options [nop,nop,TS val 2789305321 ecr 682908380], length 0
+1789107113.527009 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 5:6, ack 167, win 6, options [nop,nop,TS val 2789305324 ecr 682908421], length 1
+1789107113.527053 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 6, win 6, options [nop,nop,TS val 682925248 ecr 2789305324], length 0
+1789107113.528270 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 167:171, ack 6, win 6, options [nop,nop,TS val 682925249 ecr 2789305324], length 4
+1789107113.528682 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 171:481, ack 6, win 6, options [nop,nop,TS val 682925250 ecr 2789305324], length 310
+1789107113.530597 oaitun_ue1 Out IP 10.0.0.3.49947 > 192.168.70.135.5201: Flags [.], ack 2, win 6, options [nop,nop,TS val 682925252 ecr 2789305321], length 0
+1789107113.859124 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107114.242938 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107114.760426 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107115.181876 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107115.182001 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 167, win 6, options [nop,nop,TS val 2789306991 ecr 682910200,nop,nop,sack 1 {166:167}], length 0
+1789107115.226701 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 5:6, ack 167, win 6, options [nop,nop,TS val 2789307036 ecr 682910200], length 1
+1789107115.226746 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 6, win 6, options [nop,nop,TS val 682926948 ecr 2789307036,nop,nop,sack 1 {5:6}], length 0
+1789107115.523435 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107115.912713 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107116.324646 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107116.648835 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107116.969627 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107117.000895 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 5:6, ack 167, win 6, options [nop,nop,TS val 2789308858 ecr 682910200], length 1
+1789107117.000933 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 6, win 6, options [nop,nop,TS val 682928722 ecr 2789308858,nop,nop,sack 1 {5:6}], length 0
+1789107117.289418 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107117.652834 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107117.940048 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107118.011765 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 167, win 6, options [nop,nop,TS val 2789309877 ecr 682912664,nop,nop,sack 1 {166:167}], length 0
+1789107118.360383 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107118.738030 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107119.024630 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107119.118545 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 171:481, ack 6, win 6, options [nop,nop,TS val 682930840 ecr 2789309877], length 310
+1789107119.312327 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107119.667837 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107119.986767 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107120.310090 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107120.624015 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107120.794131 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 5:6, ack 167, win 6, options [nop,nop,TS val 2789312666 ecr 682912664], length 1
+1789107120.794194 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 6, win 6, options [nop,nop,TS val 682932515 ecr 2789312666,nop,nop,sack 1 {5:6}], length 0
+1789107120.920017 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107121.309192 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107121.786146 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107122.296921 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107122.795587 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107123.395942 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107124.159102 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107124.713042 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107125.142102 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107125.842116 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107126.226246 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107126.227543 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 167, win 6, options [nop,nop,TS val 2789318056 ecr 682917276,nop,nop,sack 1 {166:167}], length 0
+1789107126.623846 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107127.125812 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107127.681363 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107128.213741 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107128.307917 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 5:6, ack 167, win 6, options [nop,nop,TS val 2789320094 ecr 682917276], length 1
+1789107128.307980 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [.], ack 6, win 6, options [nop,nop,TS val 682940029 ecr 2789320094,nop,nop,sack 1 {5:6}], length 0
+1789107128.622317 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107129.080416 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107129.451343 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107129.964608 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107130.460612 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107130.987382 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107131.342745 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107131.665757 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107132.011581 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107132.341049 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107132.640099 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107132.931547 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107133.404667 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107133.547366 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [P.], seq 481:482, ack 6, win 6, options [nop,nop,TS val 682945268 ecr 2789320094], length 1
+1789107133.547889 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [F.], seq 482, ack 6, win 6, options [nop,nop,TS val 682945269 ecr 2789320094], length 0
+1789107133.883137 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107134.329198 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107134.942859 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107135.421170 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107136.108102 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107136.648044 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107137.190778 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107137.805071 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107138.280122 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107138.700940 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107139.296934 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107139.350768 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [FP.], seq 167:482, ack 6, win 6, options [nop,nop,TS val 682951072 ecr 2789320094], length 315
+1789107139.896425 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107140.363091 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107140.826893 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107141.273280 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107141.675968 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107142.083403 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107142.468393 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107142.813982 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760255, win 0, length 0
+1789107142.824329 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 171, win 6, options [nop,nop,TS val 2789334669 ecr 682925249], length 0
+1789107142.834462 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 481, win 6, options [nop,nop,TS val 2789334680 ecr 682925250], length 0
+1789107142.837115 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [P.], seq 6:10, ack 481, win 6, options [nop,nop,TS val 2789334681 ecr 682925250], length 4
+1789107142.837462 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [R], seq 1335205249, win 0, length 0
+1789107142.838069 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.49947: Flags [R], seq 2607760256, win 0, length 0
+1789107142.869970 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 481, win 6, options [nop,nop,TS val 2789334716 ecr 682930840,nop,nop,sack 1 {171:481}], length 0
+1789107142.870114 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [R], seq 1335205249, win 0, length 0
+1789107143.066865 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 482, win 6, options [nop,nop,TS val 2789334912 ecr 682945268], length 0
+1789107143.066985 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [R], seq 1335205250, win 0, length 0
+1789107143.069598 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [FP.], seq 10:302, ack 483, win 6, options [nop,nop,TS val 2789334912 ecr 682945269], length 292
+1789107143.069685 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [R], seq 1335205251, win 0, length 0
+1789107143.156918 oaitun_ue1 In  IP 192.168.70.135.5201 > 10.0.0.3.47467: Flags [.], ack 483, win 6, options [nop,nop,TS val 2789335004 ecr 682951072,nop,nop,sack 1 {167:483}], length 0
+1789107143.156999 oaitun_ue1 Out IP 10.0.0.3.47467 > 192.168.70.135.5201: Flags [R], seq 1335205251, win 0, length 0

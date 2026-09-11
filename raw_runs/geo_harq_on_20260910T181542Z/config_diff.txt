@@ -1,0 +1,11 @@
+--- /home/student/ntn_runs/geo_harq_off_20260910T170205Z/gnb_geo_harq_off.conf	2026-09-10 23:02:05.498363934 +0600
++++ /home/student/ntn_runs/geo_harq_on_20260910T181542Z/gnb_geo_harq_on.conf	2026-09-11 00:15:42.291799838 +0600
+@@ -20,7 +20,7 @@
+ 
+     CSI_report_type = "ssb_sinr";
+     min_rxtxtime                                              = 6;
+-    disable_harq                                              = 1;
++    disable_harq = 0;
+     cu_sibs = [2];
+     du_sibs = [19];
+ 

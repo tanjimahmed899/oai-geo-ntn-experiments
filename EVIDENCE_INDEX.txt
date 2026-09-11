@@ -1,0 +1,59 @@
+NTN EXPERIMENT EVIDENCE INDEX
+Generated: 2026-09-11T12:34:22,121701747+06:00
+
+===== HARQ OFF =====
+gnb.log
+gnb_geo_harq_off.conf
+iperf_client_version.txt
+iperf_server_version.txt
+nrue_geo.conf
+oai_commit.txt
+ping_connectivity_20260910T171924Z.log
+tcp_dl_20260910T173502Z.log
+tcp_ul_20260910T173340Z.log
+udp_dl_1M_20260910T174603Z.log
+udp_dl_2M_20260910T175717Z.log
+udp_ul_1M_20260910T174450Z.log
+udp_ul_2M_20260910T175557Z.log
+ue.log
+
+===== HARQ ON =====
+baseline_run.txt
+clock_watch_20260910T192031Z.log
+config_diff.txt
+gnb.log
+gnb_geo_harq_on.conf
+health_after_tcp_20260910T185445Z.log
+iperf_client_version.txt
+iperf_server_version.txt
+nrue_geo.conf
+oai_commit.txt
+ping_connectivity_20260910T183106Z.log
+process_clock_20260910T192031Z.log
+ran_after_tcp_20260910T185445Z.log
+tcp_dl_20260910T184057Z.log
+tcp_ul_20260910T183756Z.log
+ue.log
+
+===== HARQ ON CLEAN =====
+gnb.log
+gnb_before_release_debug.log
+gnb_geo_harq_on.conf
+nrue_geo.conf
+ping_clean_harq_on_20260910T200848Z.log
+tcp_ul_clean_harq_on.log
+tcp_ul_clean_retry.log
+udp_dl_1M_clean_harq_on.log
+udp_ul_1M_clean_harq_on.log
+ue.log
+ue_before_release_debug.log
+
+===== TCP DEBUG =====
+gnb.log
+gnb_geo_harq_on.conf
+nrue_geo.conf
+ss_tcp_ul.log
+tcp_packets.txt
+tcp_ul_baseline.log
+tcp_ul_baseline.pcap
+ue.log

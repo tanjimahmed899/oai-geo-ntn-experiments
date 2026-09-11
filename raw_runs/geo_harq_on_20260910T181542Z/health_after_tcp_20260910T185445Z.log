@@ -1,0 +1,27 @@
+215262 ./nr-softmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/gnb_geo_harq_on.conf --rfsim
+215263 ./nr-softmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/gnb_geo_harq_on.conf --rfsim
+230271 ./nr-uesoftmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/nrue_geo.conf --band 254 -C 2488400000 --CO -873500000 -r 25 --numerology 0 --ssb 60 --rfsim --rfsimulator.prop_delay 238.74
+230299 ./nr-uesoftmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/nrue_geo.conf --band 254 -C 2488400000 --CO -873500000 -r 25 --numerology 0 --ssb 60 --rfsim --rfsimulator.prop_delay 238.74
+oaitun_ue1       UNKNOWN        10.0.0.2/24 fe80::c668:5fb:cf83:4da9/64 
+/oai-ext-dn status=running restarts=0 oom=false
+/oai-upf status=running restarts=0 oom=false
+/oai-amf status=running restarts=0 oom=false
+State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+LISTEN 0      4096               *:5201            *:*    users:(("iperf3",pid=11,fd=3))
+PING 192.168.70.135 (192.168.70.135) from 10.0.0.2 oaitun_ue1: 56(84) bytes of data.
+ping: Warning: time of day goes back (-1 s), taking countermeasures
+ping: Warning: time of day goes back (-1 s), taking countermeasures
+[1789066486.928548] 64 bytes from 192.168.70.135: icmp_seq=1 ttl=63 time=0.000 ms
+[1789066487.907558] 64 bytes from 192.168.70.135: icmp_seq=2 ttl=63 time=689 ms
+[1789066489.017449] 64 bytes from 192.168.70.135: icmp_seq=3 ttl=63 time=776 ms
+[1789066489.965339] 64 bytes from 192.168.70.135: icmp_seq=4 ttl=63 time=704 ms
+[1789066490.981457] 64 bytes from 192.168.70.135: icmp_seq=5 ttl=63 time=702 ms
+[1789066492.067743] 64 bytes from 192.168.70.135: icmp_seq=6 ttl=63 time=770 ms
+[1789066493.081992] 64 bytes from 192.168.70.135: icmp_seq=7 ttl=63 time=767 ms
+[1789066494.171211] 64 bytes from 192.168.70.135: icmp_seq=8 ttl=63 time=839 ms
+[1789066494.973075] 64 bytes from 192.168.70.135: icmp_seq=9 ttl=63 time=623 ms
+[1789066496.015536] 64 bytes from 192.168.70.135: icmp_seq=10 ttl=63 time=648 ms
+
+--- 192.168.70.135 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 8999ms
+rtt min/avg/max/mdev = 0.000/651.725/838.628/225.764 ms

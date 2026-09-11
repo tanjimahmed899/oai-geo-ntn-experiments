@@ -1,0 +1,25 @@
+PING 192.168.70.135 (192.168.70.135) from 10.0.0.3 oaitun_ue1: 56(84) bytes of data.
+[1789070928.877947] 64 bytes from 192.168.70.135: icmp_seq=1 ttl=63 time=822 ms
+[1789070929.893608] 64 bytes from 192.168.70.135: icmp_seq=2 ttl=63 time=811 ms
+[1789070930.897776] 64 bytes from 192.168.70.135: icmp_seq=3 ttl=63 time=789 ms
+[1789070931.939032] 64 bytes from 192.168.70.135: icmp_seq=4 ttl=63 time=803 ms
+[1789070932.898621] 64 bytes from 192.168.70.135: icmp_seq=5 ttl=63 time=736 ms
+[1789070934.015493] 64 bytes from 192.168.70.135: icmp_seq=6 ttl=63 time=825 ms
+[1789070935.416396] 64 bytes from 192.168.70.135: icmp_seq=7 ttl=63 time=1199 ms
+[1789070935.776224] 64 bytes from 192.168.70.135: icmp_seq=8 ttl=63 time=532 ms
+[1789070937.045111] 64 bytes from 192.168.70.135: icmp_seq=9 ttl=63 time=772 ms
+[1789070939.270583] 64 bytes from 192.168.70.135: icmp_seq=10 ttl=63 time=1971 ms
+[1789070939.940999] 64 bytes from 192.168.70.135: icmp_seq=11 ttl=63 time=1613 ms
+[1789070940.055245] 64 bytes from 192.168.70.135: icmp_seq=12 ttl=63 time=691 ms
+[1789070941.278196] 64 bytes from 192.168.70.135: icmp_seq=13 ttl=63 time=878 ms
+[1789070942.266216] 64 bytes from 192.168.70.135: icmp_seq=14 ttl=63 time=837 ms
+[1789070943.508158] 64 bytes from 192.168.70.135: icmp_seq=15 ttl=63 time=1051 ms
+[1789070943.706059] 64 bytes from 192.168.70.135: icmp_seq=16 ttl=63 time=219 ms
+[1789070944.680968] 64 bytes from 192.168.70.135: icmp_seq=17 ttl=63 time=1042 ms
+[1789070945.590781] 64 bytes from 192.168.70.135: icmp_seq=18 ttl=63 time=915 ms
+[1789070946.591481] 64 bytes from 192.168.70.135: icmp_seq=19 ttl=63 time=888 ms
+[1789070947.574846] 64 bytes from 192.168.70.135: icmp_seq=20 ttl=63 time=846 ms
+
+--- 192.168.70.135 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 219.462/912.024/1970.767/354.917 ms, pipe 2

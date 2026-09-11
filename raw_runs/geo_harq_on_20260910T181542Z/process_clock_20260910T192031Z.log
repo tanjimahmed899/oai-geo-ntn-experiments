@@ -1,0 +1,13 @@
+    PID    PPID NLWP STAT %CPU     ELAPSED COMMAND
+ 230271  230268   25 SLl   171       56:16 ./nr-uesoftmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/nrue_geo.conf --band 254 -C 2488400000 --CO -873500000 -r 25 --numerology 0 --ssb 60 --rfsim --rfsimulator.prop_delay 238.74
+ 230299  230271    1 S     0.0       56:16  \_ ./nr-uesoftmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/nrue_geo.conf --band 254 -C 2488400000 --CO -873500000 -r 25 --numerology 0 --ssb 60 --rfsim --rfsimulator.prop_delay 238.74
+ 215262  215261   27 SLl   230    01:02:06 ./nr-softmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/gnb_geo_harq_on.conf --rfsim
+ 215263  215262    1 S     0.0    01:02:06  \_ ./nr-softmodem -O /home/student/ntn_runs/geo_harq_on_20260910T181542Z/gnb_geo_harq_on.conf --rfsim
+               Local time: Fri 2026-09-11 01:20:32 +06
+           Universal time: Thu 2026-09-10 19:20:32 UTC
+                 RTC time: Thu 2026-09-10 19:20:32
+                Time zone: Asia/Dhaka (+06, +0600)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no
+-- No entries --

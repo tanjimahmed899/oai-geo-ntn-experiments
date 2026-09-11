@@ -1,0 +1,32 @@
+Connecting to host 192.168.70.135, port 5201
+[  5] local 10.0.0.3 port 47325 connected to 192.168.70.135 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-5.00   sec  0.00 Bytes  0.00 bits/sec    0   32.5 KBytes       
+[  5]   5.00-10.01  sec  0.00 Bytes  0.00 bits/sec    0   45.2 KBytes       
+[  5]  10.01-15.01  sec   256 KBytes   419 Kbits/sec    0   56.6 KBytes       
+[  5]  15.01-20.00  sec  0.00 Bytes  0.00 bits/sec    0   66.5 KBytes       
+[  5]  20.00-25.00  sec  0.00 Bytes  0.00 bits/sec    0   77.8 KBytes       
+[  5]  25.00-30.00  sec  0.00 Bytes  0.00 bits/sec    0   84.8 KBytes       
+[  5]  30.00-35.00  sec  0.00 Bytes  0.00 bits/sec    0   94.7 KBytes       
+[  5]  35.00-40.00  sec  0.00 Bytes  0.00 bits/sec    0    102 KBytes       
+[  5]  40.00-45.00  sec  0.00 Bytes  0.00 bits/sec    0    109 KBytes       
+[  5]  45.00-50.00  sec  0.00 Bytes  0.00 bits/sec    0    117 KBytes       
+[  5]  50.00-55.01  sec  0.00 Bytes  0.00 bits/sec    0    126 KBytes       
+[  5]  55.01-60.00  sec  0.00 Bytes  0.00 bits/sec    0    133 KBytes       
+[  5]  60.00-65.00  sec   128 KBytes   210 Kbits/sec    0    140 KBytes       
+[  5]  65.00-70.00  sec  0.00 Bytes  0.00 bits/sec    0    148 KBytes       
+[  5]  70.00-75.00  sec  0.00 Bytes  0.00 bits/sec    0    154 KBytes       
+[  5]  75.00-80.00  sec  0.00 Bytes  0.00 bits/sec    0    163 KBytes       
+[  5]  80.00-85.00  sec  0.00 Bytes  0.00 bits/sec    0    171 KBytes       
+[  5]  85.00-90.00  sec  0.00 Bytes  0.00 bits/sec    0    178 KBytes       
+[  5]  90.00-95.00  sec   896 KBytes  1.47 Mbits/sec    0    184 KBytes       
+[  5]  95.00-100.00 sec  0.00 Bytes  0.00 bits/sec    0    192 KBytes       
+[  5] 100.00-105.00 sec  0.00 Bytes  0.00 bits/sec    0    201 KBytes       
+[  5] 105.00-110.00 sec  0.00 Bytes  0.00 bits/sec    0    209 KBytes       
+[  5] 110.00-115.01 sec  0.00 Bytes  0.00 bits/sec    0    218 KBytes       
+[  5] 115.01-120.01 sec  0.00 Bytes  0.00 bits/sec    0    223 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-120.01 sec  1.25 MBytes  87.4 Kbits/sec    0             sender
+[  5]   0.00-120.01 sec  0.00 Bytes  0.00 bits/sec                  receiver
+iperf3: error - control socket has closed unexpectedly

@@ -1,0 +1,82 @@
+==> /home/student/ntn_runs/geo_harq_on_20260910T181542Z/gnb.log <==
+UE 3ca9: ulsch_rounds 40410/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 18.2 (+3.2) RSSI -39.1 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 0.0
+UE RNTI 3ca9 CU-UE-ID 1 in-sync PH 45 dB PCMAX 20 dBm, average SINR 40.0 (32 meas)
+UE 3ca9: dlsch_rounds 13494/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 20.5+0.5) RSSI -125.7, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 69
+UE 3ca9: ulsch_rounds 40425/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.8 (+2.8) RSSI -39.0 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 128.0
+UE RNTI 3ca9 CU-UE-ID 1 in-sync PH 45 dB PCMAX 20 dBm, average SINR 40.0 (32 meas)
+UE 3ca9: dlsch_rounds 13496/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 20.5+0.5) RSSI -125.7, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 69
+UE 3ca9: ulsch_rounds 40441/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.7 (+1.7) RSSI -39.1 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 256.0
+UE RNTI 3ca9 CU-UE-ID 1 in-sync PH 45 dB PCMAX 20 dBm, average SINR 40.0 (32 meas)
+UE 3ca9: dlsch_rounds 13499/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 20.5+0.5) RSSI -125.7, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 69
+UE 3ca9: ulsch_rounds 40456/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.5 (+1.5) RSSI -39.1 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 384.0
+UE RNTI 3ca9 CU-UE-ID 1 in-sync PH 45 dB PCMAX 20 dBm, average SINR 40.0 (32 meas)
+UE 3ca9: dlsch_rounds 13501/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 20.5+0.5) RSSI -125.7, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 69
+UE 3ca9: ulsch_rounds 40469/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -39.0 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 512.0
+UE RNTI 3ca9 CU-UE-ID 1 in-sync PH 45 dB PCMAX 20 dBm, average SINR 40.0 (32 meas)
+UE 3ca9: dlsch_rounds 13504/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 20.5+0.5) RSSI -125.7, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 69
+UE 3ca9: ulsch_rounds 40483/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 17.2 (+2.2) RSSI -39.0 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m[NR_MAC] Frame.Slot 640.0
+UE RNTI 3ca9 CU-UE-ID 1 in-sync PH 45 dB PCMAX 20 dBm, average SINR 40.0 (32 meas)
+UE 3ca9: dlsch_rounds 13506/0/0/0, dlsch_errors 0, pucch0_DTX 0 (SNR 20.5+0.5) RSSI -125.7, BLER 0.00000 MCS (0) 0 (Qm 2) CCE fail 69
+UE 3ca9: ulsch_rounds 40500/6/0/0, ulsch_errors 0, ulsch_DTX 6, BLER 0.00000 MCS (0) 0 (Qm 2 deltaMCS 0) NPRB 5 SNR 16.9 (+1.9) RSSI -39.2 CCE fail 973
+UE 3ca9: LCID 1,2,4, goodput DL    0.00 UL    0.00 Mbps
+
+[0m
+==> /home/student/ntn_runs/geo_harq_on_20260910T181542Z/ue.log <==
+    DL harq: 13489/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40396/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.5, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 896.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 46.3 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13491/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40411/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.5, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 0.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 46.3 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13494/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40426/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.5, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 128.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 46.3 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13496/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40442/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.5, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 256.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 44.1 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13499/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40457/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.5, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 384.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 44.1 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13501/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40470/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.5, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 512.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 46.3 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13504/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40484/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.4, nb symbols 13.0)
+[0m[NR_RRC] MeasurementReport Encoded 53 bits (7 bytes)
+[0m[NR_MAC] UE 0 RNTI 3ca9 stats sfn: 640.0, cumulated bad DCI 0
+    DL Chan: SSB 0 SINR 45.1 dB RSRP -36 dBm, RI 0 CQI: N/A
+    DL harq: 13506/0 avg code rate 0.6, avg bit/symbol 2.0, avg per TB: (nb RBs 16.6, nb symbols 12.0)
+    UL harq: 40501/6 avg code rate 0.1, avg bit/symbol 2.0, avg per TB: (nb RBs 10.4, nb symbols 13.0)
+[0m

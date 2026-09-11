@@ -1,0 +1,9 @@
+journal_raw_evidence_*.tar.gz
+journal_raw_evidence_*.tar.gz.sha256
+
+*.tmp
+*.swp
+*.bak
+*~
+.DS_Store
+Thumbs.db
